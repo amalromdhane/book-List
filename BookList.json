@@ -10,24 +10,11 @@
           Coach wants to ban Lucy from soccer practice and games,separating Bash from a companion who boosts his confidence in sports - and life.",
           date: "10 Septembre 2013",
           Auteur: "Lisa & Michael Cohn",
-          prix: "8.00$"
+          prix: "8.00$",
           langue: Anglais,
           broché: 34pages,
           poids: "81,6g",
-          dimensions: "21.59 
-        },
-        {
-          id: 4582797,
-          category: "nourriture",
-          title: "Jardinage communautaire",
-          image: require("../assets/red_queen.jpg"),
-          description:
-            "Rejoignez-nous alors que nous nous occupons des plantes comestibles de la communauté.",
-          location: "El Nasr",
-          date: "14 Mars 2022",
-          time: "10:00",
-          petsAllowed: true,
-          organizer: "Dora Lamin",
+          dimensions: "21.59 ,
         }
       ]  
 }
