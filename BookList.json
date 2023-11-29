@@ -1,0 +1,35 @@
+{
+  "books": [
+        {
+          id: 1,
+          category: "book kids",
+          title: "Bash and Lucy: Fetch Confidence",
+          image: require("../assets/bash_and_lucy-2.jpg"),
+          description: ""Bash and Lucy", whose authors were featured on the Today Show, is a Mom's Choice Silver Award Winner, and finalist, 2013 USA Best Book Awards.
+          In this contemporary boy-and-dog tale, talkative Bash has a big problem in soccer: His beloved dog, Lucy, is a pro at nabbing the ball, but sometimes at the wrong moment.
+          Coach wants to ban Lucy from soccer practice and games,separating Bash from a companion who boosts his confidence in sports - and life.",
+          date: "10 Septembre 2013",
+          Auteur: "Lisa & Michael Cohn",
+          prix: "8.00$"
+          langue: Anglais,
+          broché: 34pages,
+          poids: "81,6g",
+          dimensions: "21.59 
+          
+          
+        },
+        {
+          id: 4582797,
+          category: "nourriture",
+          title: "Jardinage communautaire",
+          image: require("../assets/red_queen.jpg"),
+          description:
+            "Rejoignez-nous alors que nous nous occupons des plantes comestibles de la communauté.",
+          location: "El Nasr",
+          date: "14 Mars 2022",
+          time: "10:00",
+          petsAllowed: true,
+          organizer: "Dora Lamin",
+        }
+      ]  
+}
