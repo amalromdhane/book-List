@@ -1,60 +1,30 @@
 {
-  "books": [
+      "books": [
         {
-          "id": "1",
-          "category": "book kids",
+          "id": 1,
           "title": "Bash and Lucy: Fetch Confidence",
-          "image": "../assets/bash_and_lucy-2.jpg",
-          "description": "Bash and Lucy, whose authors were featured on the Today Show, is a Mom's Choice Silver Award Winner, and finalist, 2013 USA Best Book Awards.Inthis contemporary boy-and-dog tale, talkative Bash has a big problem in soccer: His beloved dog, Lucy, is a pro at nabbing the ball, but sometimes at the wrong moment.Coach wants to ban Lucy from soccer practice and games,separating Bash from a companion who boosts his confidence in sports - and life",
-          "date": "10 Septembre 2013",
-          "Auteur": "Lisa & Michael Cohn",
+          "image": "src/assets/bash_and_lucy-2.jpg",
+          "description": "Bash and Lucy, whose authors were featured on the Today Show, is a Mom's Choice Silver Award Winner, and finalist, 2013 USA Best Book Awards.In this contemporary boy-and-dog tale, talkative Bash has a big problem in soccer: His beloved dog, Lucy, is a pro at nabbing the ball, but sometimes at the wrong moment.Coach wants to ban Lucy from soccer practice and games, separating Bash from a companion who boosts his confidence in sports - and life.",
+          "date": "10 septembre 2013",
           "prix": "8.00$",
           "langue": "Anglais",
-          "broché": "34pages",
-          "poids": "81,6g",
-          "dimensions": "21.59 x 10 inches" 
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Lisa & Michael cohn"
         },
-        {
-          "id": "2",
-          "category": "book kids",
-          "title": "Be Well Bee Hardcover ",
-          "image": "../assets/be.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life",
-          "date": "August 28, 2020",
-          "Auteur": " Cabe Lindsay ",
-          "prix": "4.00$",
+            {
+          "id": 1,
+          "title": "Bash and Lucy: Fetch Confidence",
+          "image": "../assets/bash_and_lucy-2.jpg",
+          "description": "Bash and Lucy, whose authors were featured on the Today Show, is a Mom's Choice Silver Award Winner, and finalist, 2013 USA Best Book Awards.In this contemporary boy-and-dog tale, talkative Bash has a big problem in soccer: His beloved dog, Lucy, is a pro at nabbing the ball, but sometimes at the wrong moment.Coach wants to ban Lucy from soccer practice and games, separating Bash from a companion who boosts his confidence in sports - and life.",
+          "date": "10 septembre 2013",
+          "prix": "8.00$",
           "langue": "Anglais",
-          "broché": "34pages",
-          "poids": "10.7 g",
-          "dimensions": "7 x 0.25 x 10 inches"
-        },
-    {
-          "id": "3",
-          "category": "book kids",
-          "title": "Be Well Bee Hardcover ",
-          "image": "../assets/be.jpg",
-          "description": "Jackson is an astronaut testing a prototype interstellar craft in deep space. When he returns home, there’s no one to greet him. Earth has fallen silent. Now he must decide—stay in orbit, watching a dead planet roll slowly by beneath his windows, or land on Earth and fight for life?",
-          "date": "August 28, 2020",
-          "Auteur": " Cabe Lindsay ",
-          "prix": "4.00$",
-          "langue": "Anglais",
-          "broché": "34pages",
-          "poids": "10.7 g",
-          "dimensions": "7 x 0.25 x 10 inches"
-        },
-        {
-          "id": "4",
-          "category": "book kids",
-          "title": "Be Well Bee Hardcover ",
-          "image": "../assets/be.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life",
-          "date": "August 28, 2020",
-          "Auteur": " Cabe Lindsay ",
-          "prix": "4.00$",
-          "langue": "Anglais",
-          "broché": "34pages",
-          "poids": "10.7 g",
-          "dimensions": "7 x 0.25 x 10 inches"
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Lisa & Michael cohn"
         }
-      ]  
+      ]
 }
