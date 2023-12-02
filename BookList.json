@@ -42,7 +42,7 @@
           "poids": "10.7 g",
           "dimensions": "7 x 0.25 x 10 inches"
         },
-    {
+        {
           "id": "4",
           "category": "book kids",
           "title": "Be Well Bee Hardcover ",
@@ -55,6 +55,6 @@
           "broché": "34pages",
           "poids": "10.7 g",
           "dimensions": "7 x 0.25 x 10 inches"
-        },
+        }
       ]  
 }
